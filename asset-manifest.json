@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rajmoh142006-stack/SKILL-MAXING.git/static/css/main.b74ec295.css",
-    "main.js": "/rajmoh142006-stack/SKILL-MAXING.git/static/js/main.fa0b697b.js",
-    "index.html": "/rajmoh142006-stack/SKILL-MAXING.git/index.html",
-    "main.b74ec295.css.map": "/rajmoh142006-stack/SKILL-MAXING.git/static/css/main.b74ec295.css.map",
-    "main.fa0b697b.js.map": "/rajmoh142006-stack/SKILL-MAXING.git/static/js/main.fa0b697b.js.map"
+    "main.css": "/SKILL-MAXING/static/css/main.b74ec295.css",
+    "main.js": "/SKILL-MAXING/static/js/main.fa0b697b.js",
+    "index.html": "/SKILL-MAXING/index.html",
+    "main.b74ec295.css.map": "/SKILL-MAXING/static/css/main.b74ec295.css.map",
+    "main.fa0b697b.js.map": "/SKILL-MAXING/static/js/main.fa0b697b.js.map"
   },
   "entrypoints": [
     "static/css/main.b74ec295.css",
