@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/rajmoh142006-stack/SKILL-MAXING.git",
+  "homepage": "https://rajmoh142006-stack.github.io/SKILL-MAXING",
   "name": "skill-maxing",
   "version": "1.0.0",
   "private": true,
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "react-scripts": "5.0.1"
