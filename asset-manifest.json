@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rajmoh142006-stack/SKILL-MAXING.git/static/css/main.b74ec295.css",
+    "main.js": "/rajmoh142006-stack/SKILL-MAXING.git/static/js/main.fa0b697b.js",
+    "index.html": "/rajmoh142006-stack/SKILL-MAXING.git/index.html",
+    "main.b74ec295.css.map": "/rajmoh142006-stack/SKILL-MAXING.git/static/css/main.b74ec295.css.map",
+    "main.fa0b697b.js.map": "/rajmoh142006-stack/SKILL-MAXING.git/static/js/main.fa0b697b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b74ec295.css",
+    "static/js/main.fa0b697b.js"
+  ]
+}
