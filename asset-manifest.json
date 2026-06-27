@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/SKILL-MAXING/static/css/main.b74ec295.css",
+    "main.css": "/SKILL-MAXING/static/css/main.71a7956f.css",
     "main.js": "/SKILL-MAXING/static/js/main.a341d64c.js",
     "index.html": "/SKILL-MAXING/index.html",
-    "main.b74ec295.css.map": "/SKILL-MAXING/static/css/main.b74ec295.css.map",
+    "main.71a7956f.css.map": "/SKILL-MAXING/static/css/main.71a7956f.css.map",
     "main.a341d64c.js.map": "/SKILL-MAXING/static/js/main.a341d64c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b74ec295.css",
+    "static/css/main.71a7956f.css",
     "static/js/main.a341d64c.js"
   ]
 }
